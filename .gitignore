@@ -1,0 +1,6 @@
+# Ignore the tusimple dataset zip file
+tusimple.zip
+
+# Ignore the tusimple folder
+tusimple/
+tusimple_processed/
